@@ -9,6 +9,7 @@ weeks Oct 19 2026 – Jan 10 2027 at 10 Hackatime hours a week.
 
 ## Verified
 
+- Public repo at https://github.com/ryanonline1234/antiphase, pushed 2026-10-07.
 - `docs/inspiration/render_fringes.py` runs clean under `uv run --with numpy --with pillow`
   and writes `before.png`, `after.png`, `phase-sweep.gif` (5.0 MB). Measured numbers are
   in `docs/01-inspiration.md`: band 1.4 m wide, wheel reach 5 m of a 9.6 m patrol.
